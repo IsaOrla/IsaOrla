@@ -1,4 +1,4 @@
-### Olá! Eu sou a IsaOrla 👋
+### Olá! Eu sou a Isa Orlando 👋
 
 - 🔭 Estudante de Ciência de Dados
 
