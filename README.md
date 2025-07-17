@@ -2,7 +2,7 @@
 
 - 🔭 Formada em Ciência de Dados pela FIAP e Pós-Graduanda em Data Science com foco em IA e Machine Learning.
 
-- 🌱 Iniciei minha graduação na FIAP na modalidade EAD atualmente e sempre fui apaixonada por tecnologia. Gosto de desafios na área, um exemplo recente de desafios solucionados foi o Entreprise Challenge e o Global Solution, dois trabalhos acadêmicos em grupo voltados para a solução de temas polêmicos (Escassez alimentar e Assimetria do Crédito Rural com os bancos) com a Ciência de Dados. Entre diversos outros projetos de estudo para a área, incluindo testes em Python, SQL, Dashboards, estatística, etc.
+- 🌱 Iniciei minha graduação na FIAP na modalidade EAD pois sempre fui apaixonada por tecnologia. Gosto de desafios na área, um exemplo recente de desafios solucionados foi o Entreprise Challenge e o Global Solution, dois trabalhos acadêmicos em grupo voltados para a solução de temas polêmicos (Escassez alimentar e Assimetria do Crédito Rural com os bancos) com a Ciência de Dados. Entre diversos outros projetos de estudo para a área, incluindo testes em Python, SQL, Dashboards, estatística, etc.
   
 - 🚀 Disposição de aprender, capacidade de adaptação e desejo de me aprimorar constantemente. 
 
